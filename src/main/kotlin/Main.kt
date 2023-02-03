@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
     var phonenumber = "079049578870"
     var age = "9"
     println(name)
-
+    println(age)
 }
